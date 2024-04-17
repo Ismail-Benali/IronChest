@@ -49,3 +49,8 @@ IronChest is a bash script that encrypts storage devices using LUKS encryption w
 
 ```bash
 ./ironchest.sh
+```
+
+## Frequently Asked Questions (FAQ)
+
+For answers to common questions about IronChest, please refer to the [FAQ](faq.md).

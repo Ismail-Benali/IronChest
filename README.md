@@ -23,7 +23,7 @@ IronChest is a bash script that encrypts storage devices using LUKS encryption w
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your_username/ironchest.git
+    git clone https://github.com/Ismail-Benali/ironchest.git
     ```
 
 2. Navigate to the `ironchest` directory:
